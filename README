@@ -1,0 +1,7 @@
+Xaptum ENF for MultiTech hardware support OpenEmbedded layer
+
+This layer depends on:
+
+URI: git://git.multitech.net/meta-multitech
+branch: 5.1.8
+revision: HEAD
